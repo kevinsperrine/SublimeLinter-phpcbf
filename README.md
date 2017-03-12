@@ -2,7 +2,7 @@ SublimeLinter-phpcbf
 =========================
 Fork of [https://github.com/SublimeLinter/SublimeLinter-phpcs](https://github.com/SublimeLinter/SublimeLinter-phpcs) with changes to support phpcbf within SublimeLinter.
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-phpcbf.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-phpcbf)
+[![Build Status](https://travis-ci.org/kevinsperrine/SublimeLinter-phpcbf.svg?branch=master)](https://travis-ci.org/kevinsperrine/SublimeLinter-phpcbf)
 
 This linter plugin for [SublimeLinter](http://sublimelinter.readthedocs.org/) provides an interface to [phpcbf](http://pear.php.net/package/PHP_CodeSniffer/). It will be used with files that have the “PHP”, “HTML” and “HTML5” syntax.
 
