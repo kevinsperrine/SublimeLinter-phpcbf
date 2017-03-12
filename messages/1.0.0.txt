@@ -1,0 +1,15 @@
+SublimeLinter-phpcbf 1.0.0
+---------------------------
+
+This version adds support for declaring per-project linter executable files.
+
+Example (*.sublime-project):
+{
+    "SublimeLinter": {
+        "linters": {
+            "phpcbf": {
+                "cmd": "${project}/vendor/bin/phpcbf"
+            }
+        }
+    }
+}
